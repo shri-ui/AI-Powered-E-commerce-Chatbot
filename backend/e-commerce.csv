@@ -1,0 +1,43 @@
+text,label
+"I need support",customer_support
+"Can I get support",customer_support
+"Support needed",customer_support
+"Help me with support",customer_support
+"Technical support needed",technical_support
+"Need help with technical issue",technical_support
+"Product not working",technical_support
+"Device troubleshooting",technical_support
+"Hello",greeting
+"Hi there",greeting
+"Hey",greeting
+"Good morning",greeting
+"Where is my order",order_status
+"Track my order",order_status
+"Order status",order_status
+"Show me products",product_inquiry
+"What products do you have",product_inquiry
+"Tell me about your products",product_inquiry
+"What's the shipping cost?",shipping
+"How much is shipping?",shipping
+"When will my order arrive?",shipping
+"Do you offer free shipping?",shipping
+"What payment methods do you accept?",payment
+"Can I pay with PayPal?",payment
+"How can I pay for my order?",payment
+"Is credit card accepted?",payment
+"Are there any deals today?",promotions
+"What's on sale?",promotions
+"Show me current offers",promotions
+"Any discount available?",promotions
+"How do I change my password?",account_management
+"Can't login to my account",account_management
+"Need to update my profile",account_management
+"Reset my password",account_management
+"Want to leave feedback",feedback
+"How can I rate the product?",product_reviews
+"Where are the customer reviews?",product_reviews
+"Show me product ratings",product_reviews
+"Goodbye",farewell
+"Bye",farewell
+"Thanks, bye",farewell
+"See you later",farewell
